@@ -1,3 +1,3 @@
-module github.com/pulumi/pulumi-proxmox/sdk
+module github.com/agravelot/pulumi-proxmox/sdk
 
 go 1.15
